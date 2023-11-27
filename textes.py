@@ -28,6 +28,8 @@ def vocabulary():
     x1 = x1.lower()
     x = x1.split()
     for i in x:
+        if len(i) <= 3:
+            continue
         if i in list:
             continue
         else:
