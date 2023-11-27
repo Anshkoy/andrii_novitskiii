@@ -24,4 +24,4 @@ while True:
             print("на 0 ділити не можна")
         else:
             divine_result =int(divinded / divider)
-            print(f'відповідь:{divine_result}')
+            print(f'відповідь:{divine_result}') 
