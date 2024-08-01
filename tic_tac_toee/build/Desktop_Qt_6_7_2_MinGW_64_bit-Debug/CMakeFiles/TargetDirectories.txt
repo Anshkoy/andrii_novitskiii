@@ -1,0 +1,9 @@
+C:/Users/iAsus/OneDrive/Desktop/andrii/c++/tic_tac_toee/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/tic_tac_toee.dir
+C:/Users/iAsus/OneDrive/Desktop/andrii/c++/tic_tac_toee/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/iAsus/OneDrive/Desktop/andrii/c++/tic_tac_toee/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/iAsus/OneDrive/Desktop/andrii/c++/tic_tac_toee/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/iAsus/OneDrive/Desktop/andrii/c++/tic_tac_toee/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/iAsus/OneDrive/Desktop/andrii/c++/tic_tac_toee/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/iAsus/OneDrive/Desktop/andrii/c++/tic_tac_toee/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/iAsus/OneDrive/Desktop/andrii/c++/tic_tac_toee/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/tic_tac_toee_autogen_timestamp_deps.dir
+C:/Users/iAsus/OneDrive/Desktop/andrii/c++/tic_tac_toee/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/tic_tac_toee_autogen.dir
